@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 
 ### Languages & Frameworks
 
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00?logo=openjdk&logoColor=white) 
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white)
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=.net&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)
