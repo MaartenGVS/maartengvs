@@ -4,7 +4,6 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 
 ## 🔧 Technologies & Tools
 
-### Languages & Frameworks
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white)
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=.net&logoColor=white)
@@ -23,16 +22,14 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
-
-### Databases
+<br>
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/-MariaDB-4479A1?logo=mariadb&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/-Neo4j-008CC1?logo=neo4j&logoColor=white)
-
-### Tools 
+<br>
 ![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?logo=gitlab&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
