@@ -12,10 +12,8 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 
 ## 📈 GitHub Stats
 
-<div style="display: flex; flex-direction: row;">
-  <img src="https://github-readme-stats.vercel.app/api?username=MaartenGVS&show_icons=true&theme=radical" />
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaartenGVS&layout=compact" />
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaartenGVS&layout=compact)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MaartenGVS&show_icons=true)
 
 ## 🌱 What I'm Currently Learning
 
