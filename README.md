@@ -1,6 +1,6 @@
-# Hi there, I'm MaartenGVS! 👋
+# Hi there, I'm Maarten! 👋
 
-Welcome to my GitHub profile! I'm a passionate developer with a keen interest in software development, open-source contributions, and continuous learning.
+Welcome to my GitHub profile! I'm a passionate developer with a keen interest in software development and continuous learning.
 
 ## 🔧 Technologies & Tools
 
@@ -12,7 +12,9 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 
 ## 📈 GitHub Stats
 
-![MaartenGVS's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaartenGVS&show_icons=true&theme=radical)
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=MaartenGVS&show_icons=true&theme=radical">
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaartenGVS&layout=compact">
+
 
 ## 🌱 What I'm Currently Learning
 
