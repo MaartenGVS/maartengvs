@@ -26,7 +26,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/-MariaDB-4479A1?logo=mariadb&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
